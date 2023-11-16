@@ -5,7 +5,6 @@
 📫 How to reach me: 
 marcin.potoczny@protonmail.com
 
-<!--![test](https://github.com/marpot/marpot/assets/33203978/1161b380-e5fc-45a2-8e4d-3b350b774aea)
 
 **marpot/marpot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
