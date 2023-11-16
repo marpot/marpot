@@ -1,6 +1,6 @@
 ### Hi there. My name is Marcin Potoczny 👋
 
-🌱 I’m currently working on developing web applications in django web framework and learning machine learning concepts in python. I am looking for remote junior python developer job(remote).
+🌱 I’m currently working on developing web applications in django web framework and learning machine learning in python. I am looking for remote junior python developer job(remote).
 
 📫 How to reach me: 
 marcin.potoczny@protonmail.com
