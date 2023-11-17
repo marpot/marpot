@@ -10,7 +10,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/marcin-potoczny-7111a8174 </h3>
 <p align="left">
 </p>
 
