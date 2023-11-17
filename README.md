@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **marcin.potoczny@protonmail.com**
 
-  - <a href="https://www.freeiconspng.com/img/19035" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/resume-icon-png-13.png" width="350" alt="Icon Drawing Resume" /></a>
+  - <a href="https://www.freeiconspng.com/img/19035" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/resume-icon-png-13.png" width="100" height="100" alt="Icon Drawing Resume" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
