@@ -23,6 +23,10 @@
   <li><a href="https://vue-portfolio-lkoq1vtc7-marpots-projects.vercel.app/">Vue Portfolio</a> - An interactive portfolio website built with Vue.js showcasing my skills and projects.</li>
 </ul>
 
+<ul>
+  <li><a href="https://vue-portfolio-lkoq1vtc7-marpots-projects.vercel.app/](https://github.com/marpot/pure_javascript/tree/master/Projekty/magic_squares">Magic Squares Generator</a> -.</li>
+</ul>
+
 <p align="center">
   Feel free to explore my repositories and see the progress I'm making in my journey to become a proficient frontend developer. I'm always open to feedback and collaboration!
 </p>
