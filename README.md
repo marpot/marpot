@@ -20,7 +20,7 @@
 </p>
 
 <ul>
-  <li><a href="[https://github.com/marpot/vue_portfolio](https://vue-portfolio-lkoq1vtc7-marpots-projects.vercel.app/)">Project 1</a> - A brief description of what this project is about and the technologies used.</li>
+  <li><a href="https://vue-portfolio-lkoq1vtc7-marpots-projects.vercel.app/">Vue Portfolio</a> - An interactive portfolio website built with Vue.js showcasing my skills and projects.</li>
   <li><a href="https://github.com/yourusername/project2">Project 2</a> - A brief description of what this project is about and the technologies used.</li>
   <li><a href="https://github.com/yourusername/project3">Project 3</a> - A brief description of what this project is about and the technologies used.</li>
 </ul>
