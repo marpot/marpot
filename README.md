@@ -24,7 +24,7 @@
 </ul>
 
 <ul>
-  <li><a href="https://vue-portfolio-lkoq1vtc7-marpots-projects.vercel.app/](https://github.com/marpot/pure_javascript/tree/master/Projekty/magic_squares">Magic Squares Generator</a>Simple JavaScript program generates squares dynamically on a webpage when a button is clicked.</li>
+  <li><a href="https://vue-portfolio-lkoq1vtc7-marpots-projects.vercel.app/](https://github.com/marpot/pure_javascript/tree/master/Projekty/magic_squares">Magic Squares Generator</a> - Simple JavaScript program generates squares dynamically on a webpage when a button is clicked.</li>
 </ul>
 
 <p align="center">
