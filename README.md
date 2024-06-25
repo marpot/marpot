@@ -14,19 +14,4 @@
   <a href="mailto:marcin.potoczny@protonmail.com">marcin.potoczny@protonmail.com</a>
 </p>
 
-<h2 align="center">🔭 Projects & Contributions</h2>
-<p align="center">
-  Check out some of my latest projects:
-</p>
 
-<ul>
-  <li><a href="https://vue-portfolio-lkoq1vtc7-marpots-projects.vercel.app/">Vue Portfolio</a> - An interactive portfolio website built with Vue.js showcasing my skills and projects.</li>
-</ul>
-
-<ul>
-  <li><a href="">Magic Squares Generator</a> - Simple JavaScript program generates squares dynamically on a webpage when a button is clicked.</li>
-</ul>
-
-<p align="center">
-  Feel free to explore my repositories and see the progress I'm making in my journey to become a proficient frontend developer. I'm always open to feedback and collaboration!
-</p>
