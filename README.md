@@ -14,7 +14,7 @@
   <a href="mailto:marcin.potoczny@protonmail.com">marcin.potoczny@protonmail.com</a>
 </p>
 
-<p>
+<p align="center">
   https://marcinpotoczny.vercel.app/
 </p>
 
