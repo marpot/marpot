@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marcin Potoczny</h1>
-<h3 align="center">A Passionate Frontend Developer from Poland</h3>
+<h3 align="center">A Passionate Developer from Poland</h3>
 
 <p align="center">
-  I'm an aspiring frontend developer, currently honing my skills in JavaScript. I love creating interactive and user-friendly web applications, and I'm constantly expanding my knowledge in modern web technologies.
+  I'm an aspiring fullstack developer, currently honing my skills in JavaScript and Python. I love creating interactive and user-friendly web applications, and I'm constantly expanding my knowledge in modern web technologies.
 </p>
 
 <p align="center">
