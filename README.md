@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer from Poland</h3>
 
 <p align="center">
-  I'm an aspiring fullstack developer, currently honing my skills in JavaScript and Python. I love creating interactive and user-friendly web applications, and I'm constantly expanding my knowledge in modern web technologies.
+  I'm an aspiring fullstack developer, currently honing my skills in Python and Typescipt. I love creating interactive and user-friendly web applications, and I'm constantly expanding my knowledge in modern web technologies.
 </p>
 
 <p align="center">
