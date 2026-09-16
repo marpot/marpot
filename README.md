@@ -67,7 +67,10 @@ Uses custom post types, ACF, Polylang, reusable template parts, SCSS and TypeScr
 
 ## 🔨 Currently Working On
 
-I'm currently developing **Pupilovo**, a headless WooCommerce storefront, while continuing to improve my backend, frontend and testing skills through production-style project workflows.
+I'm currently modernizing and completing my **RPG Game Platform**, a full-stack Django and React application originally created while I was learning full-stack development.
+
+The current work focuses on refactoring legacy code into a cleaner architecture, stabilizing real-time multiplayer gameplay, improving automated test coverage, redesigning the frontend with a cohesive medieval fantasy interface, and building a reliable AI-assisted game master layer.
+
 
 ## 📫 Contact
 
