@@ -67,9 +67,9 @@ Uses custom post types, ACF, Polylang, reusable template parts, SCSS and TypeScr
 
 ## 🔨 Currently Working On
 
-I'm currently modernizing and completing my **RPG Game Platform**, a full-stack Django and React application originally created while I was learning full-stack development.
+I'm currently completing my **RPG Game Platform**, a full-stack Django and React application focused on real-time multiplayer gameplay and AI-assisted game mechanics.
 
-The current work focuses on refactoring legacy code into a cleaner architecture, stabilizing real-time multiplayer gameplay, improving automated test coverage, redesigning the frontend with a cohesive medieval fantasy interface, and building a reliable AI-assisted game master layer.
+The current work focuses on building a deterministic server-side game engine, shared multiplayer state, quest and world progression, automated test coverage, and a reliable AI Game Master layer for interpreting player actions, NPC dialogue and narrative generation.
 
 
 ## 📫 Contact
