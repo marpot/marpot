@@ -48,6 +48,17 @@ Includes JWT authentication, REST APIs, WebSocket communication, runtime game st
 
 [View repository](https://github.com/marpot/django_react_fullstack_rpg_game)
 
+### 🛡️ AI Cybersecurity Store
+
+**Full-stack cybersecurity e-commerce platform with an AI-assisted product recommendation service.**
+
+Combines a React and TypeScript storefront with a FastAPI recommendation service that analyzes user queries and suggests relevant cybersecurity products. The project integrates a PostgreSQL-backed Python service with WordPress/WooCommerce and uses Docker Compose to run the application stack locally.
+
+**Tech:** Python · FastAPI · React · TypeScript · PostgreSQL · WordPress · WooCommerce · Docker
+
+[View repository](https://github.com/marpot/ai-cyber-store)
+
+
 ### 🚀 Custom WordPress Portfolio Theme
 **Custom WordPress theme developed from scratch with a modern frontend toolchain.**
 
