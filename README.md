@@ -1,6 +1,6 @@
 # Hi, I'm Marcin Potoczny 👋
 
-**Software Developer | Python · Django · React · TypeScript · WordPress**
+**Software Developer | Python · FastAPI · Django · React · TypeScript · WordPress**
 
 I'm a software developer from Poland with commercial IT experience in **NLP solutions, software testing, SQL and software development**. I build practical full-stack applications and enjoy working across backend development, frontend interfaces, APIs, real-time communication, WordPress/WooCommerce integrations, Docker and testing.
 
