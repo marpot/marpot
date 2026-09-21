@@ -67,9 +67,13 @@ Uses custom post types, ACF, Polylang, reusable template parts, SCSS and TypeScr
 
 ## 🔨 Currently Working On
 
-I'm currently completing my **RPG Game Platform**, a full-stack Django and React application focused on real-time multiplayer gameplay and AI-assisted game mechanics.
+I'm currently developing a **Corporation Management System**, a full-stack application for managing organizational structures, employees, departments, projects and company operations.
 
-The current work focuses on building a deterministic server-side game engine, shared multiplayer state, quest and world progression, automated test coverage, and a reliable AI Game Master layer for interpreting player actions, NPC dialogue and narrative generation.
+The project is being built with **FastAPI, React, TypeScript and PostgreSQL**, with a focus on clean backend architecture, REST APIs, relational data modeling, authentication and role-based access control, automated testing and external API integrations.
+
+The application will include an operational dashboard with company statistics, project and department management, GitHub repository data integration, currency data from an external API, and audit logging.
+
+The project also serves as a practical DevOps environment for **Docker, Kubernetes, Helm and CI/CD**, progressing from local Docker Compose development to container orchestration and deployment.
 
 
 ## 📫 Contact
