@@ -4,6 +4,8 @@
 
 I'm a software developer from Poland with commercial IT experience in **NLP solutions, software testing, SQL and software development**. I build practical full-stack applications and enjoy working across backend development, frontend interfaces, APIs, real-time communication, WordPress/WooCommerce integrations, Docker and testing.
 
+https://marcinpotoczny.vercel.app/
+
 ## 💼 Commercial Experience
 
 ### NLP Solutions Designer — Alfavox Sp. z o.o., Poznań
