@@ -30,6 +30,15 @@ Worked on NLP-based chatbot and voicebot solutions, including solutions for **Ce
 
 ## 🚀 Featured Projects
 
+### 🏢 Corporation Resource Management
+**Full-stack workforce and resource planning application built with FastAPI, React and PostgreSQL.**
+
+Models employee, department and project management together with assignments, skills, capacity analysis and explainable employee-to-project matching. The project also demonstrates a complete delivery path with Docker Compose, GitHub Actions, GHCR images, Kubernetes, Helm and Terraform.
+
+**Tech:** Python · FastAPI · SQLAlchemy · PostgreSQL · React · TypeScript · SCSS · Docker · GitHub Actions · Kubernetes · Helm · Terraform
+
+[View repository](https://github.com/marpot/corporation_simulation_project)
+
 ### 🐾 Pupilovo
 **Headless e-commerce platform built with React, TypeScript, WordPress and WooCommerce.**
 
@@ -58,7 +67,6 @@ Combines a React and TypeScript storefront with a FastAPI recommendation service
 
 [View repository](https://github.com/marpot/ai-cyber-store)
 
-
 ### 🚀 Custom WordPress Portfolio Theme
 **Custom WordPress theme developed from scratch with a modern frontend toolchain.**
 
@@ -74,18 +82,12 @@ Uses custom post types, ACF, Polylang, reusable template parts, SCSS and TypeScr
 **Frontend:** React · TypeScript · JavaScript · HTML · SCSS  
 **CMS / E-commerce:** WordPress · WooCommerce · PHP  
 **Testing:** Pytest · Manual Testing · Test Scenarios · API Testing  
-**Tools:** Docker · Docker Compose · Git · GitHub · REST APIs · WebSockets
+**DevOps / Infrastructure:** Docker · Docker Compose · GitHub Actions · Kubernetes · Helm · Terraform · GHCR  
+**Tools:** Git · GitHub · REST APIs · WebSockets
 
-## 🔨 Currently Working On
+## 🔨 Current Focus
 
-I'm currently developing a **Corporation Management System**, a full-stack application for managing organizational structures, employees, departments, projects and company operations.
-
-The project is being built with **FastAPI, React, TypeScript and PostgreSQL**, with a focus on clean backend architecture, REST APIs, relational data modeling, authentication and role-based access control, automated testing and external API integrations.
-
-The application will include an operational dashboard with company statistics, project and department management, GitHub repository data integration, currency data from an external API, and audit logging.
-
-The project also serves as a practical DevOps environment for **Docker, Kubernetes, Helm and CI/CD**, progressing from local Docker Compose development to container orchestration and deployment.
-
+I'm currently focused on refining and extending practical full-stack and DevOps portfolio projects, with particular emphasis on **Python, FastAPI, Docker, Kubernetes, Helm, CI/CD and Terraform**.
 
 ## 📫 Contact
 
