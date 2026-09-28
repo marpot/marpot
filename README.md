@@ -1,97 +1,175 @@
 # Hi, I'm Marcin Potoczny 👋
 
-**Software Developer | Python · FastAPI · Django · React · TypeScript · WordPress**
+**Software Developer | Python · FastAPI · Django · React · TypeScript**
 
-I'm a software developer from Poland with commercial IT experience in **NLP solutions, software testing, SQL and software development**. I build practical full-stack applications and enjoy working across backend development, frontend interfaces, APIs, real-time communication, WordPress/WooCommerce integrations, Docker and testing.
+I build practical full-stack applications with a focus on **Python backend development, APIs, React frontends, testing and containerized environments**.
 
-https://marcinpotoczny.vercel.app/
+I have commercial IT experience working with **NLP solutions, software testing, SQL, APIs and technical documentation**. My projects focus on maintainable code, real application architecture and engineering practices rather than isolated tutorials.
 
-## 💼 Commercial Experience
-
-### NLP Solutions Designer — Alfavox Sp. z o.o., Poznań
-**6 months · Remote**
-
-Worked on NLP-based chatbot and voicebot solutions, including solutions for **Centrum Informatyki Resortu Finansów (CIRF)**.
-
-- Created and configured chatbots and voicebots using NLP technologies
-- Designed conversation scenarios and analyzed business requirements
-- Prepared technical documentation
-- Performed manual application testing and verified solution correctness
-- Created test scenarios and analyzed use cases
-- Worked with SQL databases
-- Collaborated with the project team on the development of IT solutions
-
-### IT Specialist — ASD Systems Sp. z o.o.
-**Internship · 1 month**
-
-- Developed and improved software
-- Performed software testing
-- Participated in software design and implementation
-- Analyzed and optimized software
-- Supported application maintenance and further development
+🌐 **Portfolio:** https://marcinpotoczny.vercel.app/  
+📍 Poland · Open to remote opportunities
 
 ## 🚀 Featured Projects
 
-### 🏢 Corporation Resource Management
-**Full-stack workforce and resource planning application built with FastAPI, React and PostgreSQL.**
+### 🎮 Eldoria Chronicles — Multiplayer RPG
 
-Models employee, department and project management together with assignments, skills, capacity analysis and explainable employee-to-project matching. The project also demonstrates a complete delivery path with Docker Compose, GitHub Actions, GHCR images, Kubernetes, Helm and Terraform.
+**Full-stack real-time multiplayer RPG built with Django and React.**
 
-**Tech:** Python · FastAPI · SQLAlchemy · PostgreSQL · React · TypeScript · SCSS · Docker · GitHub Actions · Kubernetes · Helm · Terraform
+A larger software engineering project featuring server-authoritative gameplay, REST APIs, WebSocket communication, persistent and runtime game state, turn-based combat, NPC interactions and LLM-assisted gameplay.
 
-[View repository](https://github.com/marpot/corporation_simulation_project)
+**Engineering highlights:**
+- Django REST Framework + Django Channels
+- real-time communication with WebSockets
+- PostgreSQL + Redis
+- JWT authentication
+- automated backend tests with Pytest
+- Dockerized development environment
+- GitHub Actions CI
+- AI/LLM features separated from authoritative game rules
 
-### 🐾 Pupilovo
-**Headless e-commerce platform built with React, TypeScript, WordPress and WooCommerce.**
-
-A customer-facing React storefront backed by WooCommerce. The project includes a real product catalog, search and category filtering, product details and shopping cart integration through WooCommerce APIs.
-
-**Tech:** React · TypeScript · Vite · SCSS · WordPress · WooCommerce · Docker
-
-[View repository](https://github.com/marpot/Pupilovo)
-
-### 🎮 RPG Game Platform
-**Full-stack real-time RPG platform built with Django and React.**
-
-Includes JWT authentication, REST APIs, WebSocket communication, runtime game state, turn-based combat, NPC interactions, event processing and LLM-assisted gameplay features.
-
-**Tech:** Python · Django · Django REST Framework · Channels · React · PostgreSQL · Redis · Docker · Pytest
+**Tech:** Python · Django · DRF · React · TypeScript · PostgreSQL · Redis · WebSockets · Docker · Pytest
 
 [View repository](https://github.com/marpot/django_react_fullstack_rpg_game)
 
+---
+
+### 📦 OrderPilot
+
+**B2B order intake and validation platform built with FastAPI and React.**
+
+Processes incoming orders from multiple file formats and converts them into structured, validated data. The project is also my main environment for developing practical **FastAPI and DevOps skills**.
+
+**Engineering highlights:**
+- FastAPI REST backend
+- React + TypeScript frontend
+- PostgreSQL + SQLAlchemy + Alembic
+- CSV, XLSX, PDF and text order import
+- deterministic parsing with optional AI-assisted fallback
+- validation and `NEEDS_REVIEW` workflow
+- audit trail
+- automated tests and GitHub Actions
+- Docker Compose
+- Kubernetes and Helm
+- Prometheus/Grafana observability
+
+**Tech:** Python · FastAPI · React · TypeScript · PostgreSQL · Docker · Kubernetes · Helm · Prometheus · Grafana · GitHub Actions
+
+[View repository](https://github.com/marpot/order-pilot)
+
+---
+
+### 🐾 Pupilovo
+
+**Headless e-commerce platform built with React, TypeScript, WordPress and WooCommerce.**
+
+A customer-facing storefront integrating a modern React frontend with WooCommerce.
+
+**Features:**
+- product catalog and filtering
+- product details
+- shopping cart and checkout
+- authentication
+- Google Sign-In
+- order history
+- WooCommerce API integration
+- Dockerized local environment
+- automated CI
+
+**Tech:** React · TypeScript · WordPress · WooCommerce · PHP · MySQL · Docker
+
+[View repository](https://github.com/marpot/Pupilovo)
+
+---
+
 ### 🛡️ AI Cybersecurity Store
 
-**Full-stack cybersecurity e-commerce platform with an AI-assisted product recommendation service.**
+**AI-assisted cybersecurity e-commerce platform.**
 
-Combines a React and TypeScript storefront with a FastAPI recommendation service that analyzes user queries and suggests relevant cybersecurity products. The project integrates a PostgreSQL-backed Python service with WordPress/WooCommerce and uses Docker Compose to run the application stack locally.
+Combines a React storefront, FastAPI service and WordPress/WooCommerce with an AI-assisted product recommendation system.
 
-**Tech:** Python · FastAPI · React · TypeScript · PostgreSQL · WordPress · WooCommerce · Docker
+The recommendation layer analyzes user requests and returns relevant cybersecurity products while supporting multilingual interactions.
+
+**Tech:** Python · FastAPI · React · TypeScript · WordPress · WooCommerce · Docker · AI/LLM
 
 [View repository](https://github.com/marpot/ai-cyber-store)
 
-### 🚀 Custom WordPress Portfolio Theme
-**Custom WordPress theme developed from scratch with a modern frontend toolchain.**
+---
 
-Uses custom post types, ACF, Polylang, reusable template parts, SCSS and TypeScript, with a Docker-based local development environment.
+### 🚀 Custom WordPress Portfolio Theme
+
+**Custom WordPress theme built from scratch with a modern frontend toolchain.**
+
+Demonstrates WordPress development beyond page builders, including custom theme architecture and reusable components.
 
 **Tech:** WordPress · PHP · ACF · TypeScript · SCSS · Vite · Docker
 
 [View repository](https://github.com/marpot/wordpress-portfolio-theme)
 
-## 🛠 Tech Stack
+---
 
-**Backend:** Python · Django · Django REST Framework · FastAPI · PostgreSQL · SQL · Redis  
-**Frontend:** React · TypeScript · JavaScript · HTML · SCSS  
-**CMS / E-commerce:** WordPress · WooCommerce · PHP  
-**Testing:** Pytest · Manual Testing · Test Scenarios · API Testing  
-**DevOps / Infrastructure:** Docker · Docker Compose · GitHub Actions · Kubernetes · Helm · Terraform · GHCR  
-**Tools:** Git · GitHub · REST APIs · WebSockets
+### 🏢 Corporation Management System
+
+**Full-stack corporate management application built with FastAPI and React.**
+
+Models employees, departments and organizational resources while serving as an additional hands-on environment for backend and infrastructure development.
+
+**Tech:** Python · FastAPI · SQLAlchemy · PostgreSQL · React · TypeScript · Docker · Kubernetes · Alembic
+
+[View repository](https://github.com/marpot/corporation_simulation_project)
+
+## 🛠 Technical Skills
+
+**Backend**  
+Python · FastAPI · Django · Django REST Framework · SQLAlchemy · REST APIs
+
+**Frontend**  
+React · TypeScript · JavaScript · HTML · CSS/SCSS · Vite
+
+**Databases & Infrastructure**  
+PostgreSQL · MySQL · Redis · Docker · Docker Compose · Kubernetes · Helm
+
+**Testing & QA**  
+Pytest · Manual Testing · API Testing · Regression Testing · Test Scenarios
+
+**CMS & E-commerce**  
+WordPress · WooCommerce · PHP · ACF
+
+**DevOps & Tools**  
+Git · GitHub · GitHub Actions · Linux · Prometheus · Grafana
+
+## 💼 Commercial Experience
+
+### NLP Solutions Designer — Alfavox Sp. z o.o.
+**6 months · Remote**
+
+Worked on NLP-based chatbot and voicebot solutions, including solutions for **Centrum Informatyki Resortu Finansów (CIRF)**.
+
+- designed and configured chatbot and voicebot conversation flows
+- analyzed business requirements and use cases
+- performed manual application testing
+- created test scenarios and verified application behavior
+- worked with SQL databases and APIs
+- prepared technical documentation
+- collaborated with the project team on IT solutions
+
+### IT Specialist — ASD Systems Sp. z o.o.
+**Internship · 1 month**
+
+- worked with Python-based application testing
+- tested API endpoints
+- supported software development and maintenance
+- participated in application analysis and implementation
 
 ## 🔨 Current Focus
 
-I'm currently focused on refining and extending practical full-stack and DevOps portfolio projects, with particular emphasis on **Python, FastAPI, Docker, Kubernetes, Helm, CI/CD and Terraform**.
+I'm currently strengthening my skills in:
+
+**Python / FastAPI · automated testing · Docker · Kubernetes · Helm · CI/CD · observability**
+
+My goal is to build software that I can **explain, test, maintain and develop collaboratively**, not just make it work.
 
 ## 📫 Contact
 
-**Email:** marcin.potoczny@protonmail.com  
-**Location:** Poland
+📧 **marcin.potoczny@protonmail.com**  
+🌐 **https://marcinpotoczny.vercel.app/**  
+📍 **Poland — available for 100% remote work**
