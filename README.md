@@ -125,17 +125,17 @@ Python · FastAPI · Django · Django REST Framework · SQLAlchemy · REST APIs
 **Frontend**  
 React · TypeScript · JavaScript · HTML · CSS/SCSS · Vite
 
-**Databases & Infrastructure**  
-PostgreSQL · MySQL · Redis · Docker · Docker Compose · Kubernetes · Helm
+**Databases**  
+PostgreSQL · MySQL · Redis
+
+**DevOps & Infrastructure**  
+Docker · Docker Compose · Kubernetes · Helm · GitHub Actions · Linux · Prometheus · Grafana · Git · GitHub
 
 **Testing & QA**  
 Pytest · Manual Testing · API Testing · Regression Testing · Test Scenarios
 
 **CMS & E-commerce**  
 WordPress · WooCommerce · PHP · ACF
-
-**DevOps & Tools**  
-Git · GitHub · GitHub Actions · Linux · Prometheus · Grafana
 
 ## 💼 Commercial Experience
 
